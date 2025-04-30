@@ -101,4 +101,4 @@ python app.py
 
 ## 📚 Purpose
 
-This project was created for learning and demonstration purposes. Feel free to modify and extend it.
+This project was developed as part of a technical task assigned by a company. It demonstrates practical skills in building RESTful APIs using Flask and SQLite, and showcases the ability to implement core backend functionalities such as CRUD operations, error handling, and database interaction in Python.
