@@ -17,7 +17,7 @@ This is a basic project that demonstrates how to create a REST API using Flask. 
 
 Make sure you have Python installed. Then install the required libraries by running:
 
-```bash
+```
 pip install Flask Flask-RESTful Flask-SQLAlchemy
 ```
 
@@ -30,7 +30,7 @@ pip install Flask Flask-RESTful Flask-SQLAlchemy
 3. Open your terminal or command prompt in the same folder.
 4. Start the Flask server using:
 
-```bash
+```
 python app.py
 ```
 
